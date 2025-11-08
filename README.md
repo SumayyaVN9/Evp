@@ -220,3 +220,119 @@ Memory tip: "P-V SIP" — Passion, Vision, Self‑confidence, Integrity, Persist
 ```
 
 
+---
+
+# **10 MARK QUESTION – 1**
+
+### **Personality Traits and Personal Values of Entrepreneurs** *(With Examples)*
+
+Entrepreneurs need certain personality traits and values that guide their decisions and help them handle risks, people, and challenges. These traits influence how they think, behave, and lead their business.
+
+1. **Passion and Motivation**
+   Entrepreneurs are deeply passionate about what they do. This passion keeps them going even when situations are difficult.
+   **Example:** A young woman who loves baking starts selling homemade cupcakes. Even if she gets only 3 orders per day at the start, her passion keeps her motivated to continue.
+
+2. **Vision**
+   A successful entrepreneur has a clear picture of what they want their business to become in the future.
+   **Example:** A small tea stall owner may dream of growing into a café chain like Chai Point or Chaiwala.
+
+3. **Risk-Taking Ability**
+   Entrepreneurs make decisions where outcomes may be uncertain. They take calculated risks, not blind risks.
+   **Example:** A person invests in opening a snacks cart near a college, knowing that it *may or may not* succeed.
+
+4. **Self-Confidence**
+   They believe in their abilities and do not hesitate while making decisions.
+   **Example:** A tailor starts his own boutique despite others saying the market is competitive because he trusts his designs.
+
+5. **Adaptability/Flexibility**
+   Entrepreneurs adjust to market changes, customer needs, and competition.
+   **Example:** During summer, a bakery also starts selling cold coffee and milkshakes to increase sales.
+
+6. **Creativity and Problem Solving**
+   They always look for new ways to solve problems or improve products.
+   **Example:** A vegetable seller offers free home delivery through WhatsApp orders to beat supermarket competition.
+
+7. **Integrity and Ethics**
+   Trust is important in business. Entrepreneurs must be honest and responsible.
+   **Example:** A mobile repair shop owner uses genuine spare parts to keep customer trust.
+
+**Conclusion:**
+These traits support the entrepreneur throughout the business journey. Without these values, sustaining and growing a business becomes difficult.
+
+---
+
+# **10 MARK QUESTION – 2**
+
+### **Role of Creativity and Innovation in Entrepreneurship** *(With Examples)*
+
+Creativity is the ability to generate new and original ideas, while innovation means converting those ideas into useful products and services. Entrepreneurship survives and grows through creativity and innovation.
+
+1. **Idea Formation**
+   Creativity helps find business opportunities from everyday problems.
+   **Example:** Seeing long lines at a juice shop, someone starts *pre-packed fresh juice bottles* for easy takeaway.
+
+2. **Competitive Advantage**
+   Creativity makes a business stand out from competitors.
+   **Example:** Many sell biryani, but one shop offers *“Bucket Biryani for families”* and becomes more popular.
+
+3. **Improvement of Products and Services**
+   Innovation helps modify existing offerings to better satisfy customers.
+   **Example:** Dosa stalls now offer Paneer Dosa, Pizza Dosa, and Chocolate Dosa to attract younger customers.
+
+4. **Cost Reduction and Efficiency**
+   Creative thinking finds cheaper, faster ways to operate.
+   **Example:** A tailor takes online orders and home delivery to reduce shop rent costs.
+
+5. **Market Expansion**
+   New ideas help tap new customer groups.
+   **Example:** A tuition teacher starts **online Zoom coaching** and reaches students from other cities.
+
+6. **Sustainability and Growth**
+   With continuous innovation, businesses survive longer and grow stronger.
+   **Example:** Brands like Xiaomi and Vivo continuously launch improved models, keeping up with changing customer needs.
+
+**Conclusion:**
+Creativity is the starting spark, and innovation is the tool to convert the spark into a successful business plan. Entrepreneurs who innovate stay ahead in the market.
+
+---
+
+# **10 MARK QUESTION – 3**
+
+### **Entrepreneurship Ecosystem and How It Supports Startups** *(With Examples)*
+
+An **Entrepreneurship Ecosystem** is the network of **people, organizations, policies, resources, and culture** that support entrepreneurship in a region.
+
+1. **Entrepreneurs**
+   They are the center of the ecosystem and take the initiative to start ventures.
+   **Example:** A person opening a home bakery.
+
+2. **Incubators and Accelerators**
+   They provide guidance, workspace, mentorship.
+   **Example:** **KSUM (Kerala Startup Mission)** supports student startups with training and office space.
+
+3. **Financial Support (Banks, Angel Investors, VC)**
+   They provide money to start and grow the business.
+   **Example:** A small tailoring shop receives a Mudra loan from a bank.
+
+4. **Government Policies and Schemes**
+   Government support reduces startup risk.
+   **Example:** MSME Registration, Start-Up India benefits, GST subsidies, SEED funding.
+
+5. **Educational Institutions and Skill Training**
+   Colleges offer entrepreneurship clubs, labs, and skill development programs.
+   **Example:** Your college fest *Exploria* encourages innovation and project display.
+
+6. **Market and Customers**
+   The ecosystem provides demand and feedback.
+   **Example:** Students and employees around your area become the main customers for your snack stall.
+
+7. **Technology and Infrastructure**
+   Internet, digital payments, and online platforms support growth.
+   **Example:** A small grocery shop starts accepting UPI and gets local customers through WhatsApp status promotions.
+
+**Conclusion:**
+A strong ecosystem provides the environment required for startups to grow successfully by offering knowledge, funds, networks, and encouragement.
+
+---
+
+
