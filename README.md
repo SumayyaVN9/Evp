@@ -88,7 +88,7 @@ Creativity helps entrepreneurs **find opportunities where others see problems**.
 | ----------------- | -------------------------------------------------------- |
 | Brainstorming     | Free flow of ideas without judgment                      |
 | Mind Mapping      | Visualizing interconnected ideas                         |
-| SCAMPER           | Modify existing ideas (Substitute, Combine, Adapt, etc.) |
+| SCAMPER           | Modify existing ideas ( Substitute, Combine, Adapt, Modify, Put to another use, Eliminate and Rearrange.) |
 | SWOT Analysis     | Evaluate Strengths, Weaknesses, Opportunities, Threats   |
 | Customer Feedback | Understanding customer needs directly                    |
 
