@@ -217,8 +217,6 @@ Memory tip: "P-V SIP" — Passion, Vision, Self‑confidence, Integrity, Persist
 - Aim for clarity and structure: definition, 3 points, example, conclusion.
 
 ---
-```
-
 
 ---
 
