@@ -173,4 +173,3 @@ A supportive environment that enables startup creation and growth.
 ---
 
 
-Just reply: **Make Revision Sheet** 💬
