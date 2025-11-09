@@ -1243,30 +1243,31 @@ It includes sections like:
 **Business plan = A roadmap that explains how to build and run your business successfully.**
 
 ---
+
   ## 🚀 Main Steps to Develop a Business Model
 
----
+
 
 ### 1. 💡 Identify the Business Idea
 
 - What problem are you solving?  
 - What product or service will you offer?  
 
----
+
 
 ### 2. 🌍 Understand the Market
 
 - Who are your customers?  
 - What do they need or want?  
 
----
+
 
 ### 3. 🎯 Define Value Proposition
 
 - What makes your product or service unique?  
 - Why should customers choose you?  
 
----
+
 
 ### 4. 🧩 Design the Business Model (Using Business Model Canvas)
 
@@ -1282,78 +1283,76 @@ Include the following components:
 - **Key Partners**  
 - **Cost Structure**
 
----
 
 ### 5. 🔍 Test and Validate the Model
 
 - Get feedback from real customers.  
 - Check if people are willing to pay.  
 
----
+
 
 ### 6. 💰 Analyze Financial Feasibility
 
 - Estimate costs, revenues, and profit margins.  
 
----
+
 
 ### 7. 🔧 Refine and Finalize the Model
 
 - Adjust your plan based on results and feedback.
 
----
+
 ##  New Value Creation
 
----
 
 New value creation means developing something new or better that gives extra benefit to customers and helps the business grow.
 
 It can be a new product, improved service, unique idea, or better way of doing things that solves a problem or makes life easier for people.
 
+---
+
 ## 🌟 Key Aspects of New Value Creation
 
 Creating new value means offering something better, smarter, or more meaningful for customers and the business.
 
----
 
 ### 1. 🧠 Innovation  
 Creating new ideas, products, or services that solve customer problems in a better way.
 
----
+
 
 ### 2. 💡 Customer Needs  
 Understanding what customers really want and providing solutions that add value to their lives.
 
----
+
 
 ### 3. ⚙️ Efficiency  
 Making processes faster, cheaper, or easier while maintaining good quality.
 
----
+
 
 ### 4. 🤝 Customer Experience  
 Improving how customers feel when they use your product or service.
 
----
-
 ### 5. 💰 Profitability  
 Ensuring that the new value also helps the business earn more revenue or reduce costs.
 
----
+
 
 ### 6. 🌱 Sustainability  
 Creating long-term value that benefits both the business and society (e.g., eco-friendly products).
 
----
+
 
 ### 7. 🔁 Continuous Improvement  
 Always looking for ways to update, improve, or reinvent the existing value.
 
 ---
+
 ## 🧩Steps for Formulating a Value Creation
 
 
-## 1. Creating a Value Creation Strategy
+### 1. Creating a Value Creation Strategy
 
 A value creation strategy is a plan that shows how a business will create benefits for customers and make profit at the same time.
 It focuses on finding ways to make products or services more useful, unique, or efficient than competitors.
@@ -1364,12 +1363,12 @@ A restaurant offering healthy, fast, and affordable meals creates value for heal
 In short:
 🧠 It’s about deciding how your business will make customers happy and grow in value.
 
-## 2. Creating a Value Creation Strategy Plan
+### 2. Creating a Value Creation Strategy Plan
 
 A value creation strategy plan is the step-by-step roadmap for putting the strategy into action.
 It explains what to do, how to do it, who will do it, and when.
 
-Main Steps:
+🌟 Main Steps:
 
 Identify customer needs and problems.
 
@@ -1385,43 +1384,41 @@ Example:
 If the strategy is to “improve customer convenience,” the plan might include steps like launching an online ordering app and offering home delivery.
 
 ---
-# 🌟 Benefits of New Value Creation
+
+## 🌟 Benefits of New Value Creation
 
 Creating new value helps businesses grow, stay competitive, and build strong relationships with customers while contributing to society.
 
----
 
-## 💰 1. Increases Profit and Growth  
+### 💰 1. Increases Profit and Growth  
 New and improved products attract more customers, increasing sales and revenue.
 
----
 
-## 🧠 2. Encourages Innovation  
+
+### 🧠 2. Encourages Innovation  
 It motivates businesses to think creatively and stay ahead of competitors.
 
----
 
-## 😊 3. Improves Customer Satisfaction  
+### 😊 3. Improves Customer Satisfaction  
 When customers get better quality, convenience, or unique benefits, they become happier and more loyal.
 
----
 
-## ⚙️ 4. Builds Competitive Advantage  
+
+### ⚙️ 4. Builds Competitive Advantage  
 Offering something new or better makes your business stand out in the market.
 
----
 
-## 🌱 5. Ensures Long-Term Success  
+
+### 🌱 5. Ensures Long-Term Success  
 Businesses that keep creating new value can survive and grow even when markets change.
 
----
 
-## 🤝 6. Creates Stronger Customer Relationships  
+### 🤝 6. Creates Stronger Customer Relationships  
 Customers trust and stay with brands that continuously deliver value.
 
----
 
-## 🌍 7. Supports Social and Environmental Goals  
+
+### 🌍 7. Supports Social and Environmental Goals  
 New value can also benefit society — for example, eco-friendly products or community services.
 
 ---
