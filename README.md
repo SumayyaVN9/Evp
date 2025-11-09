@@ -474,11 +474,15 @@ A business model explains **how a company generates income**. It answers 4 key q
 | **Franchise** | License business to franchisees | McDonald's, Subway |
 | **Commission-based** | Earn percentage from transactions | Swiggy, Zomato, Uber |
 
+Retailer,Manufacturer,Fee-for-Service,Bundling,Pay-As-You-Go.
+
 ---
 
 ### 3. Innovation
 
 **Innovation** means **doing something new or improving something existing** to create value.
+
+Innovation is the lifeblood of entrepreneurship. It involves creating new ideas, products, services, or processes that add value and differentiate a business in the marketplace
 
 > Innovation is the deliberate creation and implementation of new ideas that add value — new products, services, processes, business models or ways of working.
 
