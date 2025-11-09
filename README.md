@@ -503,6 +503,68 @@ Innovation is the lifeblood of entrepreneurship. It involves creating new ideas,
 - Ensures long-term survival
 
 ---
+<img width="1088" height="668" alt="image" src="https://github.com/user-attachments/assets/8aeb99ce-ffae-4d86-9bfe-09b986f29904" />
+
+<!-- <img width="1458" height="854" alt="image" src="https://github.com/user-attachments/assets/785c68bb-c2be-47ff-a4ab-3f93965c10f4" /> -->
+
+
+# 🚧 Challenges Faced by Innovative Entrepreneurs
+
+Innovative entrepreneurs face several difficulties while developing and launching new ideas. Below are the key challenges they often encounter.
+
+
+ 💰 Lack of Funds
+ 
+It’s hard to get enough money to develop new ideas, products, or technologies.  
+Investors may hesitate to fund untested ideas.
+
+
+ 📉 Market Uncertainty
+ 
+People may not easily accept new products.  
+Demand for something new is often unpredictable.
+
+ ⚠️ High Risk of Failure
+ 
+Innovation involves trying new things — sometimes they don’t work as planned.  
+Mistakes can lead to big losses.
+
+ 🏁 Competition
+ 
+Other businesses may copy the idea quickly.  
+Staying ahead requires continuous improvement.
+
+ 👩‍💻 Lack of Skilled Workforce
+ 
+Finding people with the right skills for new technology or ideas can be difficult.
+
+ 📜 Government Rules and Regulations
+ 
+New products or inventions may face strict legal requirements or approvals.
+
+ ⚙️ Technology Challenges
+ 
+Developing or maintaining advanced technology can be costly and complex.
+
+ 😕 Customer Resistance
+ 
+Customers may prefer familiar products and resist change.
+
+
+ ⏳ Time Pressure
+ 
+Innovation takes time, but the market often demands quick results.
+
+
+ 💡 Maintaining Creativity
+ 
+Constantly coming up with new and better ideas is challenging.
+
+ ✅ Summary
+ 
+Innovative entrepreneurs must balance **creativity, strategy, and persistence** while facing these challenges.  
+Overcoming them requires **planning, adaptability, and continuous learning**.
+
 
 ### 4. Value Proposition
 
@@ -557,6 +619,8 @@ Before opening a **momos stall near college**:
 | **Price Range** | ₹30–₹60 per plate acceptable | Set price in this range |
 
 **Conclusion:** High demand + Low competition + Affordable pricing = Good opportunity
+![Uploading image.png…]()
+
 
 ---
 
