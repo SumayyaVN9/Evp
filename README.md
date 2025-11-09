@@ -505,8 +505,6 @@ Innovation is the lifeblood of entrepreneurship. It involves creating new ideas,
 ---
 <img width="1088" height="668" alt="image" src="https://github.com/user-attachments/assets/8aeb99ce-ffae-4d86-9bfe-09b986f29904" />
 
-<!-- <img width="1458" height="854" alt="image" src="https://github.com/user-attachments/assets/785c68bb-c2be-47ff-a4ab-3f93965c10f4" /> -->
-
 
 # 🚧 Challenges Faced by Innovative Entrepreneurs
 
@@ -619,14 +617,78 @@ Before opening a **momos stall near college**:
 | **Price Range** | ₹30–₹60 per plate acceptable | Set price in this range |
 
 **Conclusion:** High demand + Low competition + Affordable pricing = Good opportunity
-![Uploading image.png…]()
-
 
 ---
 
 ### 6. Business Plan
 
 A **Business Plan** is a comprehensive document that explains how a business works, including goals, strategies, and financial projections.
+
+# 📘 Different Types of Business Plans
+
+Business plans help guide the direction, strategy, and growth of a business.  
+Here are the main types of business plans entrepreneurs use for different purposes.
+
+---
+
+### 🚀 Startup Business Plan
+Used when starting a new business.  
+Includes details like business idea, goals, target market, funding needs, and marketing strategy.  
+**Example:** A new café creating a plan to attract investors.
+
+---
+
+### ⚙️ Operational Business Plan
+Focuses on the internal operations of the business.  
+Includes daily activities, staff roles, production, and logistics.  
+**Example:** A factory’s plan for managing production schedules.
+
+---
+
+### 🎯 Strategic Business Plan
+Defines the company’s long-term goals and the strategies to achieve them.  
+Usually covers 3–5 years.  
+**Example:** A company planning to expand into international markets.
+
+---
+
+### 🔍 Feasibility Business Plan
+Prepared to check if a new idea is practical or profitable before starting.  
+Focuses on market research, cost, and expected profits.  
+**Example:** Testing if opening a restaurant in a new area would be successful.
+
+---
+
+###💰 Financial Business Plan
+Focuses mainly on financial aspects like budgets, sales forecasts, and funding sources.  
+Used to attract investors or lenders.  
+**Example:** Submitting to a bank for a business loan.
+
+---
+
+### 📈 Growth (Expansion) Business Plan
+Made when a business wants to grow or enter new markets.  
+Includes strategies for scaling up operations.  
+**Example:** A clothing brand expanding to online sales.
+
+---
+
+### 🏢 Internal Business Plan
+Used within a company to communicate goals to management or employees.  
+Focuses on internal improvement rather than outside funding.
+
+---
+
+### 📝 One-Page Business Plan
+A short and simple version summarizing the main points — goals, target market, and strategy.  
+Ideal for quick presentations or small businesses.
+
+---
+
+### 💡 Summary
+Each business plan serves a unique purpose.  
+Choosing the right type depends on whether you’re **starting, managing, expanding, or testing** your business idea.
+
 
 #### Key Elements of a Business Plan
 
@@ -670,6 +732,21 @@ A **Business Plan** is a comprehensive document that explains how a business wor
 - ✅ Avoid overstock and wastage
 
 Sales forecasting helps avoid **overstock**, **wastage**, and **loss**.
+
+🧠 1. Marketing Forecasting
+
+It estimates future market trends, customer needs, and demand for products.
+
+Helps identify which products to promote, where to sell, and what price to set.
+
+Example:
+A mobile company studies market trends to predict which phone features will be popular next year.
+
+💰 2. Sales Forecasting
+
+It predicts how much of a product a business can sell in a specific period (week, month, or year).
+
+Based on past sales data, market conditions, and promotional plans.
 
 ---
 
