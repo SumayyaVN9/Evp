@@ -95,6 +95,48 @@ Key traits of successful entrepreneurs (write any in exam):
 | Integrity          | Honesty and ethical conduct         |
 | Networking Ability | Building beneficial relationships   |
 
+### 🧠 1. Personality Traits in Entrepreneurship
+
+These are individual characteristics or behaviors that influence how an entrepreneur thinks, acts, and makes decisions.
+Successful entrepreneurs often share some common traits:
+
+Trait	Description	Example
+
+| **Trait** | **Description** | **Example** |
+|------------|-----------------|--------------|
+| **Risk-taking** | Willingness to take calculated risks for potential rewards. | Starting a new business even when success is uncertain. |
+| **Innovativeness** | Ability to think creatively and introduce new ideas or products. | Developing a unique app that solves a common problem. |
+| **Self-confidence** | Belief in one’s ability to succeed and make decisions. | Convincing investors about your business plan. |
+| **Resilience** | Ability to recover from setbacks and keep going. | Continuing after business failure or loss. |
+| **Proactiveness** | Taking initiative rather than waiting for opportunities. | Identifying market needs before competitors do. |
+| **Leadership** | Ability to inspire and guide others toward a goal. | Managing a startup team effectively. |
+| **Goal orientation** | Setting clear targets and working hard to achieve them. | Planning milestones for a new product launch. |
+| **Adaptability** | Adjusting quickly to changing conditions or feedback. | Changing marketing strategy after customer response. |
+
+
+### 💡 2. Personal Values in Entrepreneurship
+
+Personal values are core beliefs that guide an entrepreneur’s decisions, ethics, and behavior.
+They reflect what the entrepreneur considers most important in life and business.
+
+Value	Meaning	Example
+
+| **Value** | **Meaning** | **Example** |
+|------------|-------------|--------------|
+| **Integrity** | Being honest and ethical in all dealings. | Delivering promised quality even when it costs more. |
+| **Responsibility** | Owning up to decisions and their outcomes. | Accepting accountability for business failures. |
+| **Commitment** | Dedication to the business and its goals. | Working long hours to meet deadlines. |
+| **Empathy** | Understanding and respecting others’ needs. | Listening to employee or customer feedback. |
+| **Sustainability** | Caring about long-term impact on society and environment. | Using eco-friendly materials. |
+| **Customer focus** | Prioritizing customer satisfaction. | Improving product based on customer reviews. |
+| **Innovation** | Valuing creativity and progress. | Continuously improving business processes. |
+
+###🧩 In Short
+
+Personality traits shape how entrepreneurs act.
+
+Personal values shape why they act that way.
+
 ---
 
 ### 5. Creativity & Entrepreneurship
